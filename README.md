@@ -2,16 +2,6 @@
 
 A new Flutter project.
 
-## Getting Started
+Pecahin Yuk adalah aplikasi mobile yang membantu pengguna dalam membagi pembayaran dari satu nota (struk belanja) dengan cara melakukan scan nota. Sistem akan membaca isi nota, kemudian pengguna dapat membagi item atau total harga ke beberapa orang serta melakukan penagihan secara otomatis.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Aplikasi ini sangat berguna saat melakukan pembelian bersama dalam satu transaksi, seperti makan bersama, belanja, atau patungan, sehingga proses pembagian biaya menjadi lebih cepat, akurat, dan transparan.
